@@ -1,0 +1,36 @@
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+form {
+  padding: 100px 20px;
+
+}
+
+* {
+  background-color: #2081c3 ;
+  color: #F7F9F9 ;
+}
+
+#submit-input {
+  background-color: #F7F9F9;
+  color: #2081c3;
+  margin: 10px;
+}
+
+#name-input {
+  margin: 10px;
+}
+
+#total {
+  margin: 20px auto;
+}
