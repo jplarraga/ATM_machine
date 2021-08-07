@@ -8,12 +8,12 @@ Refactored ATM
 
 <p>The project has three stages:</p>
 
-    <li>The first one is to insert a user's name</li>
-    <img src="img/1.png" alt="ATM step1">
-    <li>The second reveals the user's account balance and asks for either a deposit ot a withdrawal</li>
-    <img src="img/2.png" alt="ATM step2">
-    <li>The third part permits to input the amount to be deposited or withdrawn and modifies the account balance of the user</li>
-    <img src="img/3.png" alt="ATM step3">
+<li>The first one is to insert a user's name</li>
+<img src="img/1.png" alt="ATM step1">
+<li>The second reveals the user's account balance and asks for either a deposit ot a withdrawal</li>
+<img src="img/2.png" alt="ATM step2">
+<li>The third part permits to input the amount to be deposited or withdrawn and modifies the account balance of the user</li>
+<img src="img/3.png" alt="ATM step3">
 
 <h2>Instalation</h2>
     <li>Copy the code of the repository</li>
